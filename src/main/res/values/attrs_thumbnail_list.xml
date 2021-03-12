@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="ThumbnailList">
+        <attr name="url" format="string" />
+    </declare-styleable>
+</resources>
